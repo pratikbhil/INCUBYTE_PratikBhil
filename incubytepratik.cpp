@@ -221,7 +221,14 @@ public:
         }
     }
 
-    
+    // Moving SpaceCraft Up
+    void takeUp() // u
+    {
+        if (d != 'U')
+        {
+            d = 'U';
+        }
+    }
 
     // Moving SpaceCraft Down
     void takeDown() // d
