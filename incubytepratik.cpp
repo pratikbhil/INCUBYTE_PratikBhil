@@ -221,6 +221,24 @@ public:
         }
     }
 
+    // Moving SpaceCraft Up
+    void takeUp() // u
+    {
+        if (d != 'U')
+        {
+            d = 'U';
+        }
+    }
+
+    // Moving SpaceCraft Down
+    void takeDown() // d
+    {
+        if (d != 'D')
+        {
+            d = 'D';
+        }
+    }
+
     
 
     // Printing x,y,z co-ordinates and direction
