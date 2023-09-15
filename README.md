@@ -1,1 +1,1 @@
-# INCUBYTE_PratikBhil
+This repository houses the codebase for the Chandrayaan 3 Spacecraft Command Translator—a program designed to bridge the communication gap between Earth and the Chandrayaan 3 lunar spacecraft. The spacecraft operates within the vast expanse of the galaxy, relying on galactic coordinates (x, y, z) to navigate and interpret commands.
